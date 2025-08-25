@@ -2,15 +2,11 @@
 
 Taskify is a task management system designed to help you stay productive and manage your daily activities efficiently.
 
----
-
 ## 📦 Modules
 - **Authentication and Authorization**
 - **Task Management**
 - **Profile Management**
 - **Notification System**
-
----
 
 ## ✨ Features
 
@@ -37,8 +33,6 @@ Taskify is a task management system designed to help you stay productive and man
 - Get notifications based on personal settings.
 - Receive alerts via email or SMS for task updates and deadlines.
 
----
-
 ## 🛠️ Tech Stack
 - **Backend:** .NET 9 (Web API, EF Core, OpenAPI/Swagger)
 - **Frontend:** Angular 18 with TailwindCSS
@@ -46,8 +40,6 @@ Taskify is a task management system designed to help you stay productive and man
 - **Authentication:** Identity core supporting external login, JWT
 - **Notifications:** Email + SMS integration
 - **Tooling:** ESLint, Prettier, Husky, GitHub Actions (CI/CD)
-
----
 
 ## 🚀 Getting Started
 
@@ -66,8 +58,6 @@ cd taskify
 
 ## 🚀 Getting Started
 _Work in progress..._
-
----
 
 ## 📜 License
 ```text
